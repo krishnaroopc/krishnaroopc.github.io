@@ -2,14 +2,14 @@
    TOKENS
 ─────────────────────────────────────────── */
 :root {
-  --ink:       #1a1a1a;
-  --ink-mid:   #404040;
-  --ink-soft:  #757575;
-  --paper:     #fafafa;
-  --paper-alt: #f5f5f5;
-  --gold:      #FF7043;
-  --gold-light:#FFB3A3;
-  --rule:      #e0e0e0;
+  --ink:       #0f172a;
+  --ink-mid:   #1e293b;
+  --ink-soft:  #64748b;
+  --paper:     #f8fafc;
+  --paper-alt: #f1f5f9;
+  --gold:      #0ea5e9;
+  --gold-light:#7dd3fc;
+  --rule:      #cbd5e1;
 
   --font-display: 'Poppins', system-ui, sans-serif;
   --font-body:    'Open Sans', system-ui, sans-serif;
